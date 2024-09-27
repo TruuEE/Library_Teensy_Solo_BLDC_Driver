@@ -2,6 +2,10 @@
 
 This repository contains the `SoloBrushlessMotor` class, which interfaces with the SOLO motor controller to drive brushless DC motors. The motor is controlled using UART communication and can be configured to manage the motor’s current, torque, and speed with options for automatic calibration and real-time feedback.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bf4dbda5-8277-496b-84fa-651a563d9688" alt="image">
+</div>
+
 ## Features
 
 - Supports two baud rate options: **115200** and **937500**.
